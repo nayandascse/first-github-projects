@@ -1,8 +1,16 @@
-# One time each projects to start git
+# 1. One time each projects to start git
 git init
-
+# 2. Every time to add
 git add .
+# 3. Every time you commit
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/nayandascse/first-github-projects.git
 git push -u origin main
+
+
+------------------------------------------------------
+For every time each project
+git add .
+git commit -m "Your meaningfull commit Message"
+git push
